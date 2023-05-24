@@ -25,5 +25,8 @@
     "hooks": {
       "pre-commit": "bash .husky/pre-commit"
     }
+  },
+  "dependencies": {
+    "mongoose": "^7.2.0"
   }
 }
